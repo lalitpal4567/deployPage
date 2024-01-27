@@ -13,7 +13,7 @@ const Header = () => {
         <nav className='navbar navbar-expand-lg'>
             <div className='container'>
                 <a href="#" className='navbar-brand me-auto' style={{ width: "156px" }}>
-                    <img className='w-100' src="/images/logo.png" />
+                    <img className='w-100' src="./images/logo.png" />
                 </a>
                 <div className='d-flex justify-content-evenly align-items-center column-gap-4'>
                     <div className='dropdown d-none d-lg-block'>
