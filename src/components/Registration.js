@@ -24,10 +24,10 @@ const Registration = () => {
                 <p className='d-none d-md-block' style={{ fontSize: 14 }}>If you are an expert or a seller, you can Add your Listing and promote yourself, your students, products, services or events. Hop on your hobbyhorse and enjoy the ride.</p>
                 <section className='d-flex justify-content-center  align-items-center mt-5 d-none d-xl-flex  d-xxl-flex'>
                     <div className='w-50' style={{ width: 151 }}>
-                        <img className='w-100' src="/images/picture1.svg" />
+                        <img className='w-100' src="./images/picture1.svg" />
                     </div>
                     <div className='w-50' style={{ width: 151 }}>
-                        <img className='w-100' src="/images/picture2.svg" />
+                        <img className='w-100' src="./images/picture2.svg" />
                     </div>
                 </section>
             </div>
@@ -40,10 +40,10 @@ const Registration = () => {
             </div>
             <section className='d-flex justify-content-center  align-items-center order-md-2 mt-5 d-xl-none'>
                 <div className='' style={{ width: 151 }}>
-                    <img className='w-100' src="/images/picture1.svg" />
+                    <img className='w-100' src="./images/picture1.svg" />
                 </div>
                 <div className='' style={{ width: 151 }}>
-                    <img className='w-100' src="/images/picture2.svg" />
+                    <img className='w-100' src="./images/picture2.svg" />
                 </div>
             </section>
         </div>
